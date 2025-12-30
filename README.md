@@ -1,14 +1,19 @@
-# New Video - https://youtu.be/YIENf3I0aRE
+# New Video - https://youtu.be/hQGE_CAo1PE
 
-[<img src="assets/238.png?raw=true">](https://youtu.be/YIENf3I0aRE)
+[<img src="assets/276.png?raw=true">](https://youtu.be/hQGE_CAo1PE)
 
-# Support
+# Consulting
 
-🔴 - To support my channel, I'd like to offer Mentorship/On-the-Job Support/Consulting. (me@antonputra.com)
+👨‍💼 Mentorship/On-the-Job Support/Consulting - [**Calendar**](https://calendly.com/antonputra/youtube) or **me@antonputra.com**  
+👀 Check out [recommendations](https://www.linkedin.com/in/anton-putra/details/recommendations/) from my previous clients.
 
 # Playlists
 
-👉 [Performance Benchmarks](https://youtube.com/playlist?list=PLiMWaCMwGJXmcDLvMQeORJ-j_jayKaLVn&si=p-UOaVM_6_SFx52H)
+📚 - [Terraform Tutorial on AWS [Full Course]](https://www.youtube.com/playlist?list=PLiMWaCMwGJXkGuVPyM2hTQumcaqnXEgHA)  
+📚 - [AWS EKS Kubernetes Tutorial [Full Course]](https://www.youtube.com/playlist?list=PLiMWaCMwGJXnKY6XmeifEpjIfkWRo9v2l)  
+📚 - [Argo CD Tutorials](https://www.youtube.com/playlist?list=PLiMWaCMwGJXkktZoHhmL6sbg7ELNjv9Xw)  
+📚 - [Kubernetes Tutorials](https://www.youtube.com/playlist?list=PLiMWaCMwGJXnHmccp2xlBENZ1xr4FpjXF)  
+📚 - [Benchmarks](https://www.youtube.com/playlist?list=PLiMWaCMwGJXmcDLvMQeORJ-j_jayKaLVn)
 
 # Contents
 

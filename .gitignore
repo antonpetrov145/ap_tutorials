@@ -4,13 +4,6 @@
 # Crash log files
 crash.log
 
-# Exclude all .tfvars files, which are likely to contain sentitive data, such as
-# password, private keys, and other secrets. These should not be part of version 
-# control as they are data points which are potentially sensitive and subject 
-# to change depending on the environment.
-#
-*.tfvars
-
 # Ignore override files as they are usually used to override resources locally and so
 # are not checked in
 override.tf
@@ -28,6 +21,7 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+.terraform.tfstate.lock.info
 
 ########## Node.gitignore ##########
 # Logs
@@ -185,3 +179,8 @@ zig-out/
 zig-cache/
 
 .idea/
+build
+
+# Ignore temporary data directories for testing
+data
+
